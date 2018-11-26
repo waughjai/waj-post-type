@@ -1,0 +1,17 @@
+{
+    "name": "waughj/waj-post-type",
+    "description": "WordPress plugin for easy generation o' new post types.",
+    "keywords": [ "wordpress", "plugin", "post", "types" ],
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jaimeson Waugh",
+            "email": "waughjai@gmail.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=7.0",
+		"waughj/wp-post-type": "*"
+    }
+}
