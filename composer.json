@@ -12,6 +12,6 @@
     "type": "library",
     "require": {
 		"php": ">=7.0",
-		"waughj/wp-post-type": "0.3.0"
+		"waughj/wp-post-type": ">=0.3.1"
     }
 }
